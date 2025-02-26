@@ -1,0 +1,49 @@
+   
+    
+h4{
+    color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+   border-bottom-right-radius:20px ;
+   border-bottom-left-radius:20px ;
+   padding: 2px;
+
+}
+
+form{
+    background:linear-gradient( aqua,grey);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    
+  
+    
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border-color: blueviolet;
+}
+button{
+    
+ padding: 5px;
+ border-radius: 5px;
+transition: 1s;
+width: 20%;
+background-color: peru;
+}
+button:hover{
+    width: 25%;
+    background:linear-gradient(to right, purple,blueviolet);
+    cursor: pointer;
+    color: aliceblue;
+
+}
+p{
+    text-align: center;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
